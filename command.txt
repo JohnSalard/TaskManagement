@@ -3,3 +3,4 @@ nest g controller <name> --no-spec
 nest g service <name> --no-spec
 yarn add class-validator class-transformer
 yarn add @nestjs/typeorm typeorm pg
+yarn add @types/bcrypt --dev
